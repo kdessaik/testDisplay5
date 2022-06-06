@@ -14,6 +14,7 @@ function App() {
           rel="noopener noreferrer"
         >
         <p> My name is Kambale Kibeho dessai I am a congolese by nationa</p>
+        <p> My name is loty I am a congolese by nationa</p>
         </a>
       </header>
     </div>
